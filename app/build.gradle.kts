@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.first.firstjavaapp"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.first.firstjavaapp"

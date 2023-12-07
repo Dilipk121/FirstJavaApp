@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">FirstJavaApp</string>
+    <string name="sign_up_here">Sign Up Here</string>
+    <string name="fill_all_details_correctly">Fill All Details Correctly ...</string>
+    <string name="name">Name</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="password">Password</string>
+    <string name="passwordd">Password</string>
+    <string name="email">Email</string>
+    <string name="write_something_about_yourself">Write Something About Yourself</string>
+    <string name="please_write_here">Please Write Here</string>
+    <string name="select_gender">Select Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="interested_courses">Interested Courses</string>
+    <string name="java">Java</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="python">Python</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="clear">Clear</string>
+
 </resources>
